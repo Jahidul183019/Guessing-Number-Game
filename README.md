@@ -13,7 +13,18 @@ This project is designed to practice Java programming, problem-solving, and logi
 - The game continues until the player guesses correctly.
 - It tracks the number of attempts and gives feedback.
 
----
+## 📚 Learning Goals
+
+Java syntax fundamentals
+
+Handling user input
+
+Conditional logic (if-else)
+
+Loops (while)
+
+Random number generation (Random class)
+
 
 ## 🚀 How to Run
 
@@ -34,24 +45,6 @@ javac GuessingNumberGame.java
 ```bash
 java GuessingNumberGame
 ```
-📚 Learning Goals
 
-Java syntax fundamentals
-
-Handling user input
-
-Conditional logic (if-else)
-
-Loops (while)
-
-Random number generation (Random class)
-
-Basic program structuring
-
-## 📺 Demo Video
-You can watch the demo below:
-
-<video width="600" controls> <source src="https://github.com/Jahidul183019/Guessing-Number-Game/raw/main/guessingNumberGame.mp4" type="video/mp4"> Your browser does not support the video tag. </video>
-
-# Or watch it on YouTube:
+## 📺 Watch it on YouTube:
 [Watch Here](https://www.youtube.com/watch?v=xHvuDeWcaHk)
