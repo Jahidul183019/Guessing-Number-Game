@@ -27,7 +27,6 @@ Random number generation (Random class)
 
 
 ## 🚀 How to Run
-
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/Jahidul183019/GuessingNumberGame.git
