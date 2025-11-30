@@ -49,4 +49,9 @@ Random number generation (Random class)
 Basic program structuring
 
 ## 📺 Demo Video
+You can watch the demo below:
+
+<video width="600" controls> <source src="https://github.com/Jahidul183019/Guessing-Number-Game/raw/main/guessingNumberGame.mp4" type="video/mp4"> Your browser does not support the video tag. </video>
+
+# Or watch it on YouTube:
 [Watch Here](https://www.youtube.com/watch?v=xHvuDeWcaHk)
